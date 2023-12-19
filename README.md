@@ -28,3 +28,7 @@ https://github.com/iShqfty/Stryke-IL2CPP-Template
 ## Tutorial to understand GameHacking
 
 https://www.youtube.com/watch?v=vrH36fIzD9g
+
+## Preview
+
+![RedMatch2](https://i.ibb.co/5chTH7G/image.png)
