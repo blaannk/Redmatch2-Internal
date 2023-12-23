@@ -1,5 +1,8 @@
-# People working on this project
-WA & Blank
+
+## By:
+
+- [@blank](https://github.com/blaannk)
+- [@WA](https://github.com/ichliebees)
 
 
 # RedMatch2 Internal
@@ -16,13 +19,12 @@ This is a cheat I did to practice GameHacking. I used a template to hook directx
 
 ## How to use
 
-### Method 1
-
-Download blank_internal.dll and inject it into RedMatch2 using ProcessHacker or any other injector.
+[![portfolio](https://cdn.pixabay.com/photo/2017/02/13/09/53/download-2062197_1280.png)](https://github.com/blaannk/Redmatch2-Internal/releases/tag/Redmatch2_internal)
+**You can inject using ProcessHacker or any other injector**
 
 ### Method 2
 
-Compile the source into Release x64 (.dll) and inject it into RedMatch2.
+Compile the source into Release x64 (.dll) using vs and inject it into RedMatch2.
 
 ## Template used
 
