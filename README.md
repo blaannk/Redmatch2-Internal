@@ -32,3 +32,6 @@ https://www.youtube.com/watch?v=vrH36fIzD9g
 ## Preview
 
 ![RedMatch2](https://i.ibb.co/5chTH7G/image.png)
+
+![image](https://github.com/blaannk/redmatch2-internal/assets/138697155/987c8641-fd7f-4858-af25-7742ebf9d390)
+
