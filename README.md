@@ -7,7 +7,6 @@
 
 # RedMatch2 Internal
 
-This is a cheat I did to practice GameHacking. I used a template to hook directx and draw the ESP.
 
 ## Features
 
