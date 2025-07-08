@@ -19,7 +19,7 @@
 
 ## How to use
 
-[![portfolio](https://cdn.pixabay.com/photo/2017/02/13/09/53/download-2062197_1280.png)](https://github.com/blaannk/Redmatch2-Internal/releases/tag/Redmatch2_internal)
+This is no longer working :/ try to update offsets
 **You can inject using ProcessHacker or any other injector**
 
 ### Method 2
